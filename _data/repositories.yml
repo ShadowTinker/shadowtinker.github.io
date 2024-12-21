@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ShadowTinker
 
-repo_description_lines_max: 2
+repo_description_lines_max: 1
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - https://github.com/USTC-StarTeam/DR4SR
+  - https://github.com/USTC-StarTeam/ZIP
+  - https://github.com/USTC-StarTeam/MF-GSLAE
+  - https://github.com/USTC-StarTeam/APGL4SR
