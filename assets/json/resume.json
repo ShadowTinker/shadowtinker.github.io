@@ -15,6 +15,8 @@
       "region": "Anhui"
     }
   },
+  "work": [],
+  "volunteer": [],
   "education": [
     {
       "institution": "University of Science and Technology of China",
@@ -44,6 +46,7 @@
       "summary": "The award recognizes papers presented at the annual SIGKDD conference that advance the fundamental understanding of the field of knowledge discovery in data and data mining. Only one paper will be granted the award."
     }
   ],
+  "certificates": [],
   "publications": [
     {
       "name": "Dataset Regeneration for Sequential Recommendation",
@@ -63,5 +66,10 @@
       "releaseDate": "2023-10-21",
       "url": "https://doi.org/10.1145/3583780.3614781"
     }
-  ]
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
 }
