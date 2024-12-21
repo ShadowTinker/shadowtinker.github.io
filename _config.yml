@@ -271,7 +271,7 @@ scholar:
   first_name: [Mingjia]
 
   style: apa
-  locale: cn
+  locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
