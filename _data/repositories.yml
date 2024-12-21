@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 1
 
 github_repos:
-  - https://github.com/USTC-StarTeam/DR4SR
-  - https://github.com/USTC-StarTeam/ZIP
-  - https://github.com/USTC-StarTeam/MF-GSLAE
-  - https://github.com/USTC-StarTeam/APGL4SR
+  - USTC-StarTeam/DR4SR
+  - USTC-StarTeam/ZIP
+  - USTC-StarTeam/MF-GSLAE
+  - USTC-StarTeam/APGL4SR
