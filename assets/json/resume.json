@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mingjia Yin",
-    "label": "Ph.D. student as USTC",
+    "label": "Ph.D student as USTC",
     "image": "",
     "email": "mingjia-yin@mail.ustc.edu.cn",
     "phone": "(+86) 183-7499-1548",
     "url": "https://shadowtinker.github.io/",
-    "summary": "I am currently a Ph.D. student under the advisory of Prof.Enhong Chen in School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC). My research interest includes Data-centric AI, Large Language Model, Data Mining, especially in Recommender Systems.",
+    "summary": "I am currently a Ph.D student under the advisory of Prof.Enhong Chen in School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC). My research interest includes Data-centric AI, Large Language Model, Data Mining, especially in Recommender Systems.",
     "location": {
       "address": "University of Science and Technology of China",
       "postalCode": "230000",
@@ -28,7 +28,7 @@
       "location": "Anhui, China",
       "url": "https://www.ustc.edu.cn/",
       "area": "Data Science",
-      "studyType": "Ph.D. student",
+      "studyType": "Ph.D student",
       "startDate": "2021-09-01",
       "endDate": "2027-07-01, expected",
     },
