@@ -2,7 +2,7 @@
   "basics": {
     "name": "Mingjia Yin",
     "label": "Ph.D student as USTC",
-    "image": "",
+    "image": "avatar.png",
     "email": "mingjia-yin@mail.ustc.edu.cn",
     "phone": "(+86) 183-7499-1548",
     "url": "https://shadowtinker.github.io/",
@@ -25,7 +25,7 @@
       "area": "Data Science",
       "studyType": "Ph.D student",
       "startDate": "2021-09-01",
-      "endDate": "2027-07-01, expected",
+      "endDate": "2027-07-01, expected"
     },
     {
       "institution": "University of Science and Technology of China",
@@ -34,7 +34,7 @@
       "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2017-09-01",
-      "endDate": "2021-07-01",
+      "endDate": "2021-07-01"
     }
   ],
   "awards": [
@@ -58,7 +58,7 @@
       "name": "MF-GSLAE: A Multi-Factor User Representation Pre-training Framework for Dual-Target Cross-Domain Recommendation",
       "publisher": "ACM",
       "releaseDate": "2024-08-04",
-      "url": "https://dl.acm.org/doi/10.1145/3690382",
+      "url": "https://dl.acm.org/doi/10.1145/3690382"
     },
     {
       "name": "APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation",
