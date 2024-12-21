@@ -43,5 +43,25 @@
       "url": "https://kdd2024.kdd.org/awards/",
       "summary": "The award recognizes papers presented at the annual SIGKDD conference that advance the fundamental understanding of the field of knowledge discovery in data and data mining. Only one paper will be granted the award."
     }
+  ],
+  "publications": [
+    {
+      "name": "Dataset Regeneration for Sequential Recommendation",
+      "publisher": "ACM",
+      "releaseDate": "2024-09-08",
+      "url": "https://doi.org/10.1145/3637528.3671841"
+    },
+    {
+      "name": "MF-GSLAE: A Multi-Factor User Representation Pre-training Framework for Dual-Target Cross-Domain Recommendation",
+      "publisher": "ACM",
+      "releaseDate": "2024-08-04",
+      "url": "https://dl.acm.org/doi/10.1145/3690382",
+    },
+    {
+      "name": "APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation",
+      "publisher": "ACM",
+      "releaseDate": "2023-10-21",
+      "url": "https://doi.org/10.1145/3583780.3614781"
+    }
   ]
 }
