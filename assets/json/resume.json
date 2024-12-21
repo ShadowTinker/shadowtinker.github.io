@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mingjia Yin",
+    "label": "Ph.D. student as USTC",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mingjia-yin@mail.ustc.edu.cn",
+    "phone": "(+86) 183-7499-1548",
+    "url": "https://shadowtinker.github.io/",
+    "summary": "A Chinese Ph.D. student focusing on",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
