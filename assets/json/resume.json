@@ -13,14 +13,7 @@
       "city": "Hefei",
       "countryCode": "CN",
       "region": "Anhui"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "education": [
     {
