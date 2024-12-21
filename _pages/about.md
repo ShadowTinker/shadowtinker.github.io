@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ustc.edu.cn/'>University of Science and Technolog
 
 profile:
   align: right
-  image: avatar.jpg
+  image: avatar.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ph.D student of USTC</p>
